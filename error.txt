@@ -1,0 +1,160 @@
+Step  11 | Agent: player_3 | Reward:  0.00 | Terminated: False | Truncated: False
+Danny: 7c 9c Kc 8d 9d Ad 6s 10s 8h Qh
+Desmond: 2c 3c 6c 4d 3s Qs 6h 9h Kh Ah
+Ben: Ac 6d Jd Qd 5s 8s Ks 2h 3h 5h
+Tyler: 4c 8c Jc Qc 2d 3d 5d 10d Kd As 10h
+[ [8 33 3 ] [41 31 26 ] [48 28 9 ] [35 18 44 ]  ]
+Danny: 5c 7c 9c 10c Kc 8d 9d Ad 6s 9s 10s 8h Qh
+Desmond: 2c 3c 6c 4d 2s 3s 7s Qs 4h 6h 9h Kh Ah
+Ben: Jc Ac 6d Jd Qd 4s 5s 8s Ks 2h 3h 5h Jh
+Tyler: 4c 8c Qc 2d 3d 5d 7d 10d Kd Js As 7h 10h
+True
+True
+True
+True
+Starting player: 1
+Has 2 of clubs: 1
+
+First player of the round and their hand: 1
+len(self.hearts): 5
+self.size(): 13
+Boolean hasOnlyHearts: False
+1,
+1,
+0,
+0,
+1,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+0,
+0,
+0,
+1,
+0,
+0,
+0,
+0,
+1,
+0,
+0,
+0,
+0,
+1,
+0,
+1,
+0,
+0,
+1,
+0,
+0,
+0,
+1,
+1,
+Step  12 | Agent: player_1 | Reward:  0.00 | Terminated: False | Truncated: False
+Current trick suit:  3
+Highest:  51
+
+Current table:
+Trick suit: Hearts
+Danny: -1
+Desmond: 51
+Ben: -1
+Tyler: -1
+
+len(self.hearts): 4
+self.size(): 13
+Error: No legal moves
+
+Agent: player_2
+
+Phase: Play
+
+Trick Number: 0
+
+Cards in the current trick: 1
+-1
+
+51
+
+-1
+
+-1
+
+Current Suit: 3
+
+Are hearts broken: True
+
+Cards in hand: [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+0,
+0,
+1,
+0,
+0,
+0,
+0,
+1,
+0,
+0,
+0,
+0,
+1,
+1,
+0,
+0,
+0,
+0,
+1,
+1,
+0,
+0,
+1,
+0,
+0,
+0,
+0,
+1,
+0,
+1,
+1,
+0,
+1,
+0,
+0,
+0,
+0,
+0,
+1,
+0,
+0,
+0,
